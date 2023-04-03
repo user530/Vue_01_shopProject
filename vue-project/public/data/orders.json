@@ -1,0 +1,52 @@
+[
+ {
+    "userId": 14, 
+    "date": 1475854871212, 
+    "products": [
+        { "id": 1, "itemName": "Raddishes", "itemQuantity": 6 },
+        { "id": 13, "itemName": "Pineapples", "itemQuantity": 12 },
+        { "id": 14, "itemName": "Steaks", "itemQuantity": 3 }],
+    "total": 63.96
+ },
+
+ {
+    "userId": 14, 
+    "date": 1499554869212, 
+    "products": [
+        { "id": 2, "itemName": "Artichokes", "itemQuantity": 1 },
+        { "id": 5, "itemName": "Cabbages", "itemQuantity": 9 },
+        { "id": 16, "itemName": "Sausages", "itemQuantity": 13 }],
+    "total": 65.96
+},
+
+{
+    "userId": 14, 
+    "date": 1512954861311, 
+    "products": [
+        { "id": 3, "itemName": "Broccoli", "itemQuantity": 4 },
+        { "id": 6, "itemName": "Cherries", "itemQuantity": 4 },
+        { "id": 7, "itemName": "Carrots", "itemQuantity": 10 },
+        { "id": 11, "itemName": "Oranges", "itemQuantity": 9 }],
+    "total": 162.71
+},
+
+{
+    "userId": 14, 
+    "date": 1579454763118, 
+    "products": [
+        { "id": 8, "itemName": "Corn", "itemQuantity": 4},
+        { "id": 12, "itemName": "Peas", "itemQuantity": 3 },
+        { "id": 15, "itemName": "Watermelons", "itemQuantity": 7}],
+    "total": 73.51
+},
+
+{
+    "userId": 14, 
+    "date": 1630553325710, 
+    "products": [
+        { "id": 9, "itemName": "Grapes", "itemQuantity": 10 },
+        { "id": 10, "itemName": "Onions", "itemQuantity": 8 }],
+    "total": 101
+}
+]
+
